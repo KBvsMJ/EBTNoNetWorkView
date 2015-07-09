@@ -9,7 +9,7 @@
 #import "EBTShowNoNetWorkView.h"
 
 #define kContentViewHeight  30.f
-#define kMargin 25.f
+#define kMargin 20.f
 #define kBottomMargin 64.f
 @interface EBTShowNoNetWorkView ()
 {
